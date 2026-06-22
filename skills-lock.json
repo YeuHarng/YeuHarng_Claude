@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "tong-jincheng-perspective": {
+      "source": "hotcoffeeshake/tong-jincheng-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "8f856648dbf2637e994c16ce9b7d4b47725508d82132dfc9e5e46343e23c8cee"
+    }
+  }
+}
